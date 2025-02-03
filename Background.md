@@ -1,7 +1,7 @@
-COVID-19 Recovery Trends and Socioeconomic Impacts
-Problem
-Understanding the factors that influence the uneven socioeconomic recovery from COVID-19 across Canadian provinces and cities. Mainly focusing on vaccination rates, mobility trends, unemployment, and public health spending.
-Executive Summary
+## COVID-19 Recovery Trends and Socioeconomic Impacts
+## Problem
+Understanding the factors that influence the uneven socioeconomic recovery from COVID-19 across Canadian provinces and cities. Mainly focusing on vaccination rates, mobility trends, unemployment, and public health spending.<br>
+## Executive Summary
 The COVID-19 pandemic caused the world to slow down in every manner, especially the public health sector, economies and the health and well being of the global population. When we look within Canada, the damage was expansive and reached every individual and every industry. The major issues that we experienced as a nation were the healthcare capacity, the rapidly rising numbers of unemployment, and our society recovering from the mental damage of the shutdowns. The socioeconomic impacts of COVID-19 are still being felt today. The following information will help us understand the key factors and drivers of Canada’s recovery process. 
 In this study, we are going to dive into and analyze a select set of data that we believe will give us insights on how we are recovering, we are going to examine trends like vaccination rate, mobility pattern, unemployment rates and finally public health spending. Each region of Canada will have differences and variations, we plan on looking at those variations to understand why or why regions didn't recover well from the pandemic. We are planning to use our information, projected patterns and insights to help Canadian policy makers and stakeholders make an educated decision on how to approach their long lasting recovery process. The results drawn from the analysis will help promote and push forward our socioeconomic recover as well as preparing us for future issues that could have similar impacts as COVID-19
 
@@ -22,7 +22,6 @@ Source: https://coronavirus.jhu.edu/
 Context: Tracks COVID-19 cases, vaccination rates, and deaths. Updated regularly to monitor public health trends.
 Years: 2020–Present
 Region: Canada (provinces)
-
 Google Mobility Reports
 Source: https://www.google.com/covid19/mobility/
 Conext: Tracks movement trends in workplaces, retail, parks, and residential areas. Useful for studying activity levels.
