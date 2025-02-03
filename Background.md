@@ -16,11 +16,11 @@ Analyze the recovery trends, mainly economic, this includes factors like unemplo
 Consider the public health spending changes pre and post COVID-19 to see how they impacted recovery outcomes.
 Compare and contrast the recovery trends across regions and cities to identify where certain places excelled or had a difficult time recovering. 
 ## Potential Datasets
-Johns Hopkins University COVID-19 Dashboard
-Source: https://coronavirus.jhu.edu/
-Context: Tracks COVID-19 cases, vaccination rates, and deaths. Updated regularly to monitor public health trends.
-Years: 2020–Present
-Region: Canada (provinces)
+# Johns Hopkins University COVID-19 Dashboard
+Source: https://coronavirus.jhu.edu/<br>
+Context: Tracks COVID-19 cases, vaccination rates, and deaths. Updated regularly to monitor public health trends.<br>
+Years: 2020–Present<br>
+Region: Canada (provinces)<br>
 Google Mobility Reports
 Source: https://www.google.com/covid19/mobility/
 Conext: Tracks movement trends in workplaces, retail, parks, and residential areas. Useful for studying activity levels.
