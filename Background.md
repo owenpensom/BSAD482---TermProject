@@ -4,7 +4,7 @@
 
 Understanding the factors that influence the uneven socioeconomic recovery from COVID-19 across Canadian provinces and cities. Mainly focusing on vaccination rates, mobility trends, unemployment, and public health spending.<br>
 
-# Executive Summary
+# Problem Context
 
 The COVID-19 pandemic caused the world to slow down in every manner, especially the public health sector, economies and the health and well being of the global population. When we look within Canada, the damage was expansive and reached every individual and every industry. The major issues that we experienced as a nation were the healthcare capacity, the rapidly rising numbers of unemployment, and our society recovering from the mental damage of the shutdowns. The socioeconomic impacts of COVID-19 are still being felt today. The following information will help us understand the key factors and drivers of Canada’s recovery process. <br>
 
