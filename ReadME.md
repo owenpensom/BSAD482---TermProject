@@ -1,12 +1,16 @@
+# COVID-19 Recovery Trends and Socioeconomic Impacts
+
+*By: Owen Pensom*
 ## **Executive Summary**
 
-The goal and project analyses and evaluates how Canada recovered from the COVID-19 pandemic with regards to socioeconomic factors. The key drivers of our analysis will be economic trends, public health, and finally mobility indicators. We will be using trusted statistical organizations to gather our data, from platforms like statistics canada, google mobility reports, and the world bank. The goal of the analysis of this data will allow us to determine common trends, measure progress, and show the similarities and differences of recovery between different geographic regions. We aim to use a combination of statistical analysis and data manipulation/visualization to allow policymakers and stakeholders to have further insights and understanding. Through this approach, we will be able to evaluate and comprehend the long and short term impacts that the COVID-19 pandemic had on canada. 
+The study evaluates how Canada recovered from the COVID-19 pandemic with regards to socioeconomic factors. The key drivers of our analysis will be economic trends, public health, and finally mobility indicators. We will be using trusted statistical organizations to gather our data, from platforms like statistics canada, google mobility reports, and the world bank. The goal of the analysis of this data will allow us to determine common trends, measure progress, and show the similarities and differences of recovery between different geographic regions. We aim to use a combination of statistical analysis and data manipulation/visualization to allow policymakers and stakeholders to have further insights and understanding. Through this approach, we will be able to evaluate and comprehend the long and short term impacts that the COVID-19 pandemic had on canada. 
 
 [Read detailed background information here](Background.md)
 
-# Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 1. ### **Vaccination Rates**
+<mark>Consider a value statement for each KPI to show you have the "big picture" in mind,for example: Monitoring vaccination rates helps assess progress toward achieving herd immunity, which is crucial for controlling the spread of the virus and protecting those who cannot be vaccinated. Vaccination is also closely linked to economic recovery; higher rates can lead to fewer restrictions, allowing businesses to reopen and operate normally, thus boosting the economy.</mark>
 
   * Tracks the percentage of the population vaccinated over time.  
   * Target: Achieve 90% full vaccination coverage across all provinces, the current national average of 85%.  
