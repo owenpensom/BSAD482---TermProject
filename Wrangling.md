@@ -54,33 +54,33 @@
 
 - The cleaned and processed dataset was saved as a new CSV file (vaccination_cleaned.csv) for further analysis.
 
-**_2\. Mobility Recovery Index_**
+## **Mobility Recovery Index**
 
-### **1\. Loading the Dataset**
+**1\. Loading the Dataset**
 
 - The dataset was loaded using Python (Pandas library) from an Excel file.
 
-### **2\. Handling Missing Values**
+**2\. Handling Missing Values**
 
 - Missing values in the province column were replaced with "Unknown".
 - Missing numerical values (retail, workplace, and residential):
   - Forward filled (ffill) to propagate previous valid values.
   - Remaining missing values were filled with the mean values for each province.
 
-### **3\. Standardizing Formats**
+**3\. Standardizing Formats**
 
 - The Date column was converted to a datetime format using pd.to_datetime().
 - Column names were standardized:
   - Renamed columns to simpler names (e.g., retail_and_recreation_percent_change_from_baseline → retail).
   - Removed spaces and special characters.
 
-### **4\. Filtering Unnecessary Data**
+**4\. Filtering Unnecessary Data**
 
 - Unnecessary columns were dropped, keeping only:
   - Date, province, retail, workplace, and residential.
 - Rows with irrelevant or incomplete data were filtered out.
 
-### **5\. Aggregations**
+**5\. Aggregations**
 
 - Data was aggregated to weekly averages:
   - Grouped by province and week using the pd.Grouper function.
@@ -91,11 +91,11 @@
 - A new column, MRI (Mobility Recovery Index), was calculated:
   - The mean of the absolute values of retail, workplace, and residential.
 
-### **7\. Output**
+**7\. Output**
 
 - The cleaned and aggregated dataset was ready for further analysis, with weekly trends and the calculated MRI for each province.
 
-**_3\. Unemployment Rate Trends_**
+## **Unemployment Rate Trends**
 
 ### **1\. Loading the Dataset**
 
