@@ -1,6 +1,6 @@
 # *****_Data Wrangling_*****
 
-**_1\. Vaccination Rates_**
+** Vaccination Rates_**
 
 **1\. Loading the Dataset**
 
