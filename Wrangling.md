@@ -2,11 +2,11 @@
 
 **_1\. Vaccination Rates_**
 
-### **1\. Loading the Dataset**
+**1\. Loading the Dataset**
 
 - The dataset was loaded using Python (Pandas library) from a CSV file (vaccination-coverage-map.csv).
 
-### **2\. Handling Missing Values**
+**2\. Handling Missing Values**
 
 - Missing values in the province column were filled with "Unknown".
 - Missing numerical values (at_least_1_dose, partially_vaccinated, fully_vaccinated):
