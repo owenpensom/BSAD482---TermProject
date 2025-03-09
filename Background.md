@@ -30,33 +30,30 @@ Evaluating Policy Effectiveness: Future strategies will be refined through looki
 4. Compare and contrast the recovery trends across regions and cities to identify where certain places excelled or had a difficult time recovering. 
 
 ## Datasets
-<mark>Lots of great data here, it may be overly ambitious, so it is ok to simplify if things get out of hand</mark>
 
 ### Johns Hopkins University COVID-19 Dashboard
-* Source: https://coronavirus.jhu.edu/ <mark>Consider: https://github.com/CSSEGISandData/COVID-19</mark>
+* Source:https://github.com/CSSEGISandData/COVID-19
 * Context: Tracks COVID-19 cases, vaccination rates, and deaths. Updated regularly to monitor public health trends.
-* Years: 2020–Present<br>
-* Region: Canada (provinces)<br>
+* Years: 2020–Present
+* Region: Canada (provinces)
 
-<mark>Consider bulleting these</mark>
 ### Google Mobility Reports
-Source: https://www.google.com/covid19/mobility/
-Conext: Tracks movement trends in workplaces, retail, parks, and residential areas. Useful for studying activity levels.
-Years: 2020–Present
-Region: Canada (cities, provinces)
-<mark>You dont' need BR tags</mark>
+* Source: https://www.google.com/covid19/mobility/
+* Conext: Tracks movement trends in workplaces, retail, parks, and residential areas. Useful for studying activity levels.
+* Years: 2020–Present
+* Region: Canada (cities, provinces)
 
 ### Statistics Canada – Labour Force Survey
-Source: https://www.statcan.gc.ca/<br>
-Context: Provides unemployment rates, job participation, and labor force data. Helps analyze economic recovery .Shows health spending and healthcare resource use. Important for understanding recovery outcomes.<br>
-Years: 2020–Present<br>
-Region: Canada (national, provinces)<br>
+* Source: https://www.statcan.gc.ca/
+* Context: Provides unemployment rates, job participation, and labor force data. Helps analyze economic recovery .Shows health spending and healthcare resource use. Important for understanding recovery outcomes.
+* Years: 2020–Present
+* Region: Canada (national, provinces)
 
 ### World Bank Open Data
-Source: https://data.worldbank.org/<br>
-Context: Includes GDP growth rates and recovery indicators. Offers a global view with data for Canada.<br>
-Years: 2020–Present<br>
-Area: Global (includes Canada)<br>
+* Source: https://data.worldbank.org/
+* Context: Includes GDP growth rates and recovery indicators. Offers a global view with data for Canada.
+* Years: 2020–Present
+* Area: Global (includes Canada)
 
 ## References
 <mark>Use APA v7 format (italics of title)</mark>
