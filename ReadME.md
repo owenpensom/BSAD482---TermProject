@@ -16,9 +16,6 @@ The study evaluates how Canada recovered from the COVID-19 pandemic with regards
   * Monthly updates from public health agencies.
   * Value Statement: Tracking vaccination rates helps control the spread of the virus, protect vulnerable populations, and support economic recovery by reducing restrictions.
 ![Vaccination Rates](Visualizations/Vaccination_Rates_Visual.png)
-
-
-
     
 2. ### **Mobility Recovery Index**
 
@@ -26,6 +23,8 @@ The study evaluates how Canada recovered from the COVID-19 pandemic with regards
   * Target: Reach pre-pandemic mobility levels in all regions.  
   * Weekly updates using Google Mobility Reports.
   * Value Statement: Monitoring mobility shows how communities are returning to normal, which is key for social and economic recovery.
+![Mobility Index](Visualizations/Mobility_Index_Image.png)
+
 
 3. ### **Unemployment Rate Trends**
 
