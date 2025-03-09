@@ -13,44 +13,44 @@
   - Forward filled (ffill) to propagate previous valid values.
   - Remaining missing values were filled with province-level averages using groupby() and transform().
 
-### **3\. Removing Duplicates**
+**3\. Removing Duplicates**
 
 - Duplicate rows were identified and removed using the Pandas drop_duplicates() function.
 
-### **4\. Standardizing Formats**
+**4\. Standardizing Formats**
 
 - The date column was converted to a datetime format using pd.to_datetime().
 - Column names were standardized:
   - Renamed long column names to simpler names (e.g., numtotal_atleast1dose → at_least_1_dose).
   - Removed spaces and special characters and ensured consistent lowercase formatting.
 
-### **5\. Filtering Unnecessary Data**
+**5\. Filtering Unnecessary Data**
 
 - Removed irrelevant columns, keeping only:
   - date, province, at_least_1_dose, partially_vaccinated, fully_vaccinated, percent_at_least_1_dose, and percent_fully_vaccinated.
 - Filtered out rows with incomplete or irrelevant data.
 
-### **6\. Joining Datasets**
+**6\. Joining Datasets**
 
 - If applicable, joined the vaccination rates dataset with additional datasets (e.g., population data) to enhance the analysis.
 
-### **7\. Aggregations**
+**7\. Aggregations**
 
 - The dataset was aggregated to monthly averages:
   - Grouped by province and month using the pd.Grouper function for the date column.
   - Calculated monthly averages for numerical columns such as at_least_1_dose, partially_vaccinated, and fully_vaccinated.
 
-### **8\. Pivoting**
+**8\. Pivoting**
 
 - The dataset was pivoted to create a more analysis-friendly structure:
   - Ensured that province and month were the primary dimensions.
 
-### **9\. Calculating Progress to Target**
+**9\. Calculating Progress to Target**
 
 - A new column, progress_to_target, was calculated:
   - Defined as (percent_fully_vaccinated / 90) \* 100 to measure progress toward the 90% vaccination target.
 
-### **10\. Output**
+**10\. Output**
 
 - The cleaned and processed dataset was saved as a new CSV file (vaccination_cleaned.csv) for further analysis.
 
