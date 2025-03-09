@@ -15,6 +15,7 @@ The study evaluates how Canada recovered from the COVID-19 pandemic with regards
   * Target: Achieve 90% full vaccination coverage across all provinces, the current national average of 85%.  
   * Monthly updates from public health agencies.
   * Value Statement: Tracking vaccination rates helps control the spread of the virus, protect vulnerable populations, and support economic recovery by reducing restrictions.
+
     
 2. ### **Mobility Recovery Index**
 
@@ -29,6 +30,10 @@ The study evaluates how Canada recovered from the COVID-19 pandemic with regards
   * Target: Reduce unemployment to pre-pandemic levels, the current national unemployment rate is 7.5%.  
   * Monthly reporting from Statistics Canada.
   * Value Statement: Tracking unemployment rates reflects job market health and overall economic stability.
+  ![Unemployment Trends](Visualizations/Unemployment.png)
+
+
+
     
 4. ### **Public Health Spending Changes**
 
