@@ -1,4 +1,4 @@
-****_Data Wrangling_****
+*_Data Wrangling_*
 
 **_1\. Vaccination Rates_**
 
