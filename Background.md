@@ -56,14 +56,13 @@ Evaluating Policy Effectiveness: Future strategies will be refined through looki
 * Area: Global (includes Canada)
 
 ## References
-<mark>Use APA v7 format (italics of title)</mark>
 
 Department of Finance Canada. (2020). *Overview of Canada's COVID-19 Economic Response Plan*. Government of Canada. https://www.canada.ca/en/department-finance/services/publications/economic-fiscal-snapshot/overview-economic-response-plan.html<br>
 
-Statistics Canada. (2023, March 9). Research to Insights: A look at Canada's economy and society three years after the start of the COVID-19 pandemic. Government of Canada. https://www150.statcan.gc.ca/n1/pub/11-631-x/11-631-x2023004-eng.htm<br>
+Statistics Canada. (2023, March 9). *Research to Insights: A look at Canada's economy and society three years after the start of the COVID-19 pandemic.* Government of Canada. https://www150.statcan.gc.ca/n1/pub/11-631-x/11-631-x2023004-eng.htm<br>
 
-Bank of Canada. (n.d.). Labour market recovery from COVID‑19. Retrieved from https://www.bankofcanada.ca/markets/market-operations-liquidity-provision/covid-19-actions-support-economy-financial-system/labour-market-recovery-from-covid-19/<br>
+Bank of Canada. (n.d.). *Labour market recovery from COVID‑19.* Retrieved from https://www.bankofcanada.ca/markets/market-operations-liquidity-provision/covid-19-actions-support-economy-financial-system/labour-market-recovery-from-covid-19/<br>
 
-Di Matteo, L. (2022, September 22). Some provinces weathered COVID economic storm better than others. Fraser Institute. https://www.fraserinstitute.org/commentary/some-provinces-weathered-covid-economic-storm-better-others<br>
+Di Matteo, L. (2022, September 22). *Some provinces weathered COVID economic storm better than others.* Fraser Institute. https://www.fraserinstitute.org/commentary/some-provinces-weathered-covid-economic-storm-better-others<br>
 
-Trading Economics. (2025, February). Canada GDP. https://tradingeconomics.com/canada/gdp<br>
+Trading Economics. (2025, February). *Canada GDP*. https://tradingeconomics.com/canada/gdp<br>
