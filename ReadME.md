@@ -52,3 +52,4 @@ The study evaluates how Canada recovered from the COVID-19 pandemic with regards
   * Achieve a GDP growth rate of at least 2.5% annually while maintaining an unemployment rate below 6.5%. The current GDP growth rate of        1.8% and unemployment rate of 7.5%.  
   * Quarterly assessments using Statistics Canada and the World Bank data.
   * Value Statement: The index provides a clear picture of economic recovery, balancing growth and job creation.
+  ![Economic Recovery](Visualizations/Recovery_image.png)
