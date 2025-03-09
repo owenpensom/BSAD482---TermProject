@@ -184,42 +184,58 @@
 
 **1\. Loading the Dataset**
 
-- The dataset was uploaded by prompting the user using the files.upload() function in Google Colab.
-- It was loaded from an Excel file (Healthcare_Spending.xlsx) using the Pandas library.
+*   The dataset was uploaded using the files.upload() function in Google Colab.
+    
+*   It was loaded from an Excel file (recovery index.xlsx) using the Pandas library.
+    
 
 **2\. Handling Missing Values**
 
-- Missing numerical values in columns like Hospitals, Public Health, Administration, COVID-19 Response Funding, and Total were handled:
-  - Non-numeric or placeholder values (e.g., "—", "–", "NaN") were replaced with NaN.
-  - Remaining missing values were filled with 0 where applicable.
+*   Missing values in key columns such as **Year**, **GDP Growth (%),** and **Unemployment Rate (%)** were addressed:
+    
+    *   Placeholder values (e.g., "—", "NaN") were replaced with NaN.
+        
+    *   Remaining missing values were filled using forward fill (ffill()) where applicable.
+        
 
 **3\. Removing Duplicates**
 
-- Duplicate rows were not explicitly mentioned but were assumed to be handled if necessary during the cleaning process.
+*   Duplicate entries were checked and removed to maintain data consistency.
+    
 
 **4\. Standardizing Formats**
 
-- The Year column was cleaned to retain only numeric values:
-  - Non-numeric characters were removed using regular expressions.
-  - Converted to integer format using astype(int).
-- All numeric columns were converted to float for consistency.
-- Column names were cleaned to remove special characters and line breaks.
+*   The **Year** column was cleaned to retain only numeric values and converted to integer format using .astype(int).
+    
+*   **GDP Growth** and **Unemployment Rate** columns were converted to float for consistency.
+    
+*   Column names were formatted to remove spaces and special characters.
+    
 
 **5\. Filtering Unnecessary Data**
 
-- Unnecessary sheets (e.g., Instructions, Contact info) from the Excel file were excluded.
-- Only sheets corresponding to provinces (N.L., P.E.I., etc.) were processed.
-- Irrelevant columns were filtered out, keeping only necessary ones:
-  - Year, Hospitals, Public Health, Administration, COVID-19 Response Funding, Total, and Province.
+*   Irrelevant sheets (e.g., metadata, instructions) were excluded.
+    
+*   Only necessary columns were retained:
+    
+    *   **Year**, **GDP Growth (%)**, **Unemployment Rate (%)**.
+        
 
-**6\. Joining Multiple Datasets**
+**6\. Data Visualization**
 
-- Data from multiple provincial sheets was combined into a single DataFrame using pd.concat().
+*   A dual-axis line graph was created using matplotlib:
+    
+    *   **GDP Growth (%)** was plotted on the left y-axis (blue line with circular markers).
+        
+    *   **Unemployment Rate (%)** was plotted on the right y-axis (red line with cross markers).
+        
+    *   Labels, legends, and axis titles were added for clarity.
+        
+*   The graph highlights the inverse relationship between GDP growth and unemployment, especially during major economic downturns (e.g., 2008 recession, COVID-19 pandemic).
+    
 
-**7\. Aggregations**
+**7\. Output**
 
-- The dataset was filtered to include only records from 2020 onward (Year >= 2020).
-
-**8\. Output**
-
-- The cleaned dataset was saved to a new CSV file (Filtered_Healthcare_Spending.csv) for further analysis.  
+*   The cleaned dataset was saved as Filtered\_Recovery\_Index.csv for further analysis.
+    
+*   The generated visualization was saved as Recovery image.png.
