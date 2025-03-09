@@ -44,17 +44,11 @@ The study evaluates how Canada recovered from the COVID-19 pandemic with regards
     growth of 3.8%.  
   * Annual evaluation through provincial budget reports.
   * Value Statement: Analyzing healthcare spending ensures fair resources and stronger recovery.
-    
+    ![Public Health Spending](Visualizations/Spending.png)
+
+
 5. ### **Economic Recovery Index**
   * Combines Canada’s GDP growth and unemployment rates and trends  to evaluate overall recovery of the economy.  
   * Achieve a GDP growth rate of at least 2.5% annually while maintaining an unemployment rate below 6.5%. The current GDP growth rate of        1.8% and unemployment rate of 7.5%.  
   * Quarterly assessments using Statistics Canada and the World Bank data.
   * Value Statement: The index provides a clear picture of economic recovery, balancing growth and job creation.
-
-6. ### **Regional Disparity in Recovery**
-
-  * Compares recovery trends across provinces to see recovery differences by regions.  
-  * Target: Reduce the unemployment rate gap between provinces to below 2 percent. The Current difference is 4 percent between the highest       province/region and lowest province/region unemployment rates.  
-  * Quarterly reviews using provincial unemployment data from Statistics Canada.
-  * Value Statement: Reducing regional gaps ensures a fair and balanced recovery for all provinces.
-
