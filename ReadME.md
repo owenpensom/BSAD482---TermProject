@@ -15,7 +15,9 @@ The study evaluates how Canada recovered from the COVID-19 pandemic with regards
   * Target: Achieve 90% full vaccination coverage across all provinces, the current national average of 85%.  
   * Monthly updates from public health agencies.
   * Value Statement: Tracking vaccination rates helps control the spread of the virus, protect vulnerable populations, and support economic recovery by reducing restrictions.
-![Vaccination Rates](Visualizations/Vaccination Rates Visual.png)
+![Vaccination Rates](Visualizations/Vaccination_Rates_Visual.png)
+
+
 
     
 2. ### **Mobility Recovery Index**
