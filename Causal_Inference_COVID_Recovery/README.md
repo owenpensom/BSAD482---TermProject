@@ -1,5 +1,6 @@
+Causal Inference Analysis
 
-** Causal Inference Analysis
+
 To explore how different indicators were connected during the COVID-19 recovery, I started by creating a correlation heatmap. One of the strongest relationships I found was between vaccination rates and unemployment — provinces with higher percentages of fully vaccinated people tended to have lower unemployment. But since correlation doesn’t always mean causation, I used a causal inference tool called DoWhy to test if this relationship was actually causal.
 In my analysis, the main question was: Does increasing the percentage of people fully vaccinated lead to lower unemployment? I used percent_fully_vaccinated as the treatment variable and Unemployment Rate (%) as the outcome. I also controlled for other factors that could influence both, including Total healthcare spending, Public Health, Administration, and COVID-19 Response Funding. After building a causal graph and running a backdoor-adjusted linear regression, the result showed that a 1% increase in full vaccination leads to a 0.043% decrease in unemployment, on average.
 To make sure the result was trustworthy, I ran two refutation tests:
