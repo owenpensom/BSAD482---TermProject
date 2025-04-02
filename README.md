@@ -68,7 +68,7 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
 
 ## 2. Research Objective
 
-*What you aim to learn or show with this analysis.*
+*What I am aiming to learn and show with this analysis.*
 
 ---
 
@@ -76,7 +76,7 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
 
 ### (a) Mobility Trends
 
-*Summary of findings using mobility data (Google Mobility Reports).*
+*Summary of findings using mobility data.*
 
 ### (b) Healthcare Spending
 
@@ -96,7 +96,7 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
 
 ### (a) Model Explanation
 
-*Description of the causal inference model used (e.g., DAG, DiD).*
+*Description of the causal inference model used.*
 
 ### (b) Results
 
