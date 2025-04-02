@@ -52,43 +52,37 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
    * Combines Canada’s GDP growth and unemployment rates and trends to evaluate overall recovery of the economy.  
    * Achieve a GDP growth rate of at least 2.5% annually while maintaining an unemployment rate below 6.5%.  
    * Quarterly assessments using Statistics Canada and the World Bank data.
-
-6. #### **Regional Disparity in Recovery**
-   * Compares recovery trends across provinces to see recovery differences by regions.  
-   * Target: Reduce the unemployment rate gap between provinces to below 2 percent.  
-   * Quarterly reviews using provincial unemployment data from Statistics Canada.
-
----
-
 ## 1. Introduction
 
-*Summary of the project background and why the topic was chosen.*
+This project investigates the socioeconomic impact of the COVID-19 pandemic across Canadian provinces, with a focus on mobility patterns, healthcare spending, unemployment trends, and vaccination efforts. The motivation behind this research stems from a desire to better understand the varying provincial responses and recovery trajectories, and how key public health and economic indicators intersected during this unprecedented period.
 
 ---
 
 ## 2. Research Objective
 
-*What I am aiming to learn and show with this analysis.*
+The primary objective is to explore the relationship between public health interventions—such as vaccination campaigns—and economic indicators like unemployment and mobility. This analysis aims to identify patterns that may inform more effective policy responses in future health crises, with a particular focus on causal relationships that can be quantified and tested.
 
 ---
 
 ## 3. Exploratory Data Analysis
 
+A multi-faceted EDA was conducted to uncover trends across four domains:
+
 ### (a) Mobility Trends
 
-*Summary of findings using mobility data.*
+Using data from Google's COVID-19 Community Mobility Reports, this section tracks how movement patterns changed in response to lockdowns and public health mandates. Key observations include dramatic decreases in retail and recreation mobility in early 2020, with varying rates of recovery across provinces.
 
 ### (b) Healthcare Spending
 
-*Key insights from provincial healthcare spending.*
+Provincial healthcare expenditure data was examined to understand shifts in funding priorities during the pandemic. Some provinces saw substantial increases in emergency spending, particularly related to vaccine distribution and hospital capacity.
 
 ### (c) Unemployment
 
-*Trends in unemployment over the COVID and recovery periods.*
+Unemployment rates surged during initial lockdowns but showed uneven recovery across regions. Analysis includes pre- and post-pandemic comparisons, highlighting sectors most affected and the pace at which employment rebounded.
 
 ### (d) Vaccination and Recovery
 
-*Link between vaccine rates and recovery outcomes.*
+This section analyzes the correlation between vaccine rollout rates and economic recovery metrics. Provinces with faster and broader vaccination coverage generally experienced quicker rebounds in mobility and employment.
 
 ---
 
@@ -96,19 +90,21 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
 
 ### (a) Model Explanation
 
-*Description of the causal inference model used.*
+To assess causality rather than simple correlation, a difference-in-differences (DiD) framework was applied. This quasi-experimental method compares changes in key outcomes across provinces before and after vaccine rollout, controlling for time-invariant provincial characteristics and national trends.
 
 ### (b) Results
 
-*What the analysis showed, in plain language.*
+The model suggests that provinces with earlier and higher vaccine uptake experienced more pronounced improvements in mobility and employment. While some confounding factors remain, these findings support the hypothesis that vaccination efforts had a meaningful economic impact.
 
 ---
 
 ## 5. Discussion
 
-*Reflection on findings, limitations, and how this could help stakeholders or policymakers.*
+These findings illustrate the interconnectedness of public health and economic resilience. While the analysis confirms some expected relationships, it also reveals gaps in recovery and challenges in uniform policy implementation. Limitations include potential unobserved variables and data lags. Nonetheless, the results offer valuable insights for policymakers planning future crisis responses, particularly in aligning health and economic strategies.
+
 
 ---
+
 
 ### 📁 Project Structure
 
