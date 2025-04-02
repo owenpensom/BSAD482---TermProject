@@ -55,11 +55,16 @@ The unemployment rate graph shows the sharp impact of the pandemic, with rates s
    * Evaluating and understanding the provincial-level spending on healthcare during the pandemic and its impact on recovery.  
    * Target: Increase the healthcare spending growth of at least 5% in regions that are not receiving fair resources, the current average growth of 3.8%.  
    * Annual evaluation through provincial budget reports.
+     ![image](https://github.com/user-attachments/assets/00721ba3-3691-4a8f-9ebc-01013c06ae8a)
+This area chart illustrates provincial trends in public health spending from 2020 to 2024. While most provinces increased healthcare budgets significantly during the pandemic, only a few sustained spending growth rates beyond the 5% target post-2022. The chart also reveals disparities, with provinces like Ontario and Quebec allocating substantially more than northern territories. This suggests ongoing inequities in healthcare funding distribution and resource access.
 
 5. #### **Economic Recovery Index**
    * Combines Canada’s GDP growth and unemployment rates and trends to evaluate overall recovery of the economy.  
    * Achieve a GDP growth rate of at least 2.5% annually while maintaining an unemployment rate below 6.5%.  
    * Quarterly assessments using Statistics Canada and the World Bank data.
+![image](https://github.com/user-attachments/assets/1e0c6923-8665-4212-9bee-9c5ce20b15d9)
+The dual-axis chart comparing GDP growth and unemployment rates reveals the complex interplay between economic performance and labor recovery. Years with high GDP growth generally align with lower unemployment, as seen in the early 2000s and post-2010. However, the COVID-19 disruption in 2020 shows a sharp GDP contraction alongside unemployment spikes. While GDP rebounded, unemployment recovery has lagged, signaling an incomplete and uneven economic recovery.
+     
 ## 1. Introduction
 
 This project investigates the socioeconomic impact of the COVID-19 pandemic across Canadian provinces, with a focus on mobility patterns, healthcare spending, unemployment trends, and vaccination efforts. The motivation behind this research stems from a desire to better understand the varying provincial responses and recovery trajectories, and how key public health and economic indicators intersected during this unprecedented period.
