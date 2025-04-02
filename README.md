@@ -40,14 +40,16 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
    * Measures the return to pre-pandemic activity levels across workplaces, retail, and residential organizations/companies.  
    * Target: Reach pre-pandemic mobility levels in all regions.  
    * Weekly updates using Google Mobility Reports.
-  ![image (1)](https://github.com/user-attachments/assets/c2756b2b-6ab1-4d90-b3e9-1a0f16c96408)
-The unemployment rate graph shows the sharp impact of the pandemic, with rates spiking above 14% in early 2020. A steady decline follows, reaching near pre-pandemic levels by 2022. However, the rate begins rising again by 2024, reaching 7%, still above the target of 6.5%. This suggests a partial economic recovery that has since stalled, possibly due to shifting labor market dynamics or slower-than-expected economic growth.
+  ![image](https://github.com/user-attachments/assets/51397ff7-2d7a-44e0-afe7-6f37a4889edd)
+The mobility recovery chart tracks weekly activity across provinces, reflecting public movement trends in response to restrictions and recovery phases. Peaks in early 2020 suggest initial resilience, but sharp declines followed, with prolonged stagnation across most regions. Some provinces, like British Columbia, showed stronger rebounds, while others remained below pre-pandemic levels. The inconsistent recovery patterns suggest varying provincial policies, economic conditions, and public sentiment toward reopening efforts.
 
 
 3. #### **Unemployment Rate Trends**
    * Continuously watching the changes in unemployment rates to evaluate how our economy has recovered.  
    * Target: Reduce unemployment to pre-pandemic levels, the current national unemployment rate is 7.5%.  
    * Monthly reporting from Statistics Canada.
+  ![image (1)](https://github.com/user-attachments/assets/c2756b2b-6ab1-4d90-b3e9-1a0f16c96408)
+The unemployment rate graph shows the sharp impact of the pandemic, with rates spiking above 14% in early 2020. A steady decline follows, reaching near pre-pandemic levels by 2022. However, the rate begins rising again by 2024, reaching 7%, still above the target of 6.5%. This suggests a partial economic recovery that has since stalled, possibly due to shifting labor market dynamics or slower-than-expected economic growth.
 
 4. #### **Public Health Spending Changes**
    * Evaluating and understanding the provincial-level spending on healthcare during the pandemic and its impact on recovery.  
