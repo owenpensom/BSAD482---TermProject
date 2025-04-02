@@ -40,6 +40,9 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
    * Measures the return to pre-pandemic activity levels across workplaces, retail, and residential organizations/companies.  
    * Target: Reach pre-pandemic mobility levels in all regions.  
    * Weekly updates using Google Mobility Reports.
+  ![image (1)](https://github.com/user-attachments/assets/c2756b2b-6ab1-4d90-b3e9-1a0f16c96408)
+The unemployment rate graph shows the sharp impact of the pandemic, with rates spiking above 14% in early 2020. A steady decline follows, reaching near pre-pandemic levels by 2022. However, the rate begins rising again by 2024, reaching 7%, still above the target of 6.5%. This suggests a partial economic recovery that has since stalled, possibly due to shifting labor market dynamics or slower-than-expected economic growth.
+
 
 3. #### **Unemployment Rate Trends**
    * Continuously watching the changes in unemployment rates to evaluate how our economy has recovered.  
