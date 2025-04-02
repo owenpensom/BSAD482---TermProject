@@ -33,6 +33,7 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
    * Target: Achieve 90% full vaccination coverage across all provinces, the current national average of 85%.  
    * Monthly updates from public health agencies.
      ![image](https://github.com/user-attachments/assets/dd9b0631-d547-4306-ad13-012eb694116e)
+     The line chart on vaccination rates shows a strong upward trend across provinces, with most nearing or surpassing the 90% full vaccination target by late 2023. The red dashed line emphasizes the national goal, allowing clear visual comparison of provincial progress. While some provinces like Yukon exceeded expectations early, others lagged slightly, highlighting regional discrepancies in vaccine rollout and uptake over time.
 
 
 2. #### **Mobility Recovery Index**
