@@ -32,6 +32,8 @@ The goal and project analyses and evaluates how Canada recovered from the COVID-
    * Tracks the percentage of the population vaccinated over time.  
    * Target: Achieve 90% full vaccination coverage across all provinces, the current national average of 85%.  
    * Monthly updates from public health agencies.
+     ![image](https://github.com/user-attachments/assets/dd9b0631-d547-4306-ad13-012eb694116e)
+
 
 2. #### **Mobility Recovery Index**
    * Measures the return to pre-pandemic activity levels across workplaces, retail, and residential organizations/companies.  
