@@ -103,11 +103,12 @@ This section analyzes the correlation between vaccine rollout rates and economic
 
 ### (a) Model Explanation
 
-To assess causality rather than simple correlation, a difference-in-differences (DiD) framework was applied. This quasi-experimental method compares changes in key outcomes across provinces before and after vaccine rollout, controlling for time-invariant provincial characteristics and national trends.
+![image](https://github.com/user-attachments/assets/6f4d0d8f-189b-49ca-bf8d-d1d07dcbeaab)
+To explore relationships between public health and economic indicators during the COVID-19 recovery, a correlation heatmap was created. This helped identify key variables that might be causally linked. In particular, `percent_fully_vaccinated` showed a moderate negative correlation with unemployment (–0.49), suggesting that provinces with higher vaccination rates tended to have lower unemployment. These patterns informed variable selection for the causal model and highlighted potential confounders like healthcare spending.
 
 ### (b) Results
 
-The model suggests that provinces with earlier and higher vaccine uptake experienced more pronounced improvements in mobility and employment. While some confounding factors remain, these findings support the hypothesis that vaccination efforts had a meaningful economic impact.
+The causal model estimates that a 1% increase in full vaccination rates leads to a 0.043% decrease in unemployment**, on average. This effect remained stable across two refutation tests, confirming that the result is not likely due to random variation or unobserved confounders. Overall, the analysis supports the idea that vaccination played a meaningful role in economic recovery.
 
 ---
 
